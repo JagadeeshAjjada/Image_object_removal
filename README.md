@@ -16,3 +16,13 @@ The final result is a clean image with the object removed.
     <img src="/Test_img/Lowfidality_diagram.png" width="1000" />
     <em></em>
 </p>
+
+## Usage
+
+The DeepFillv2 model requires pretrained weights from a PyTorch reimplementation of DeepFillv2. The model's code was taken from that repository with minor changes.
+
+Place the .pth weights file inside the models/ folder before running the program.
+
+```
+app.py [path of image]
+```
