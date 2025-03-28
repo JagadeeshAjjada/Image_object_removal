@@ -10,7 +10,7 @@ First, the user selects the object by drawing a box around it. Instead of removi
 
 Next, DeepFillv2, a deep learning inpainting model, fills in the missing area using a gated convolution system.
 
-The final result is a clean image with the object removed.
+You will get the final result is a clean image with the object removed.
 
 <p align ="center">
     <img src="/Test_img/Lowfidality_diagram.png" width="1000" />
