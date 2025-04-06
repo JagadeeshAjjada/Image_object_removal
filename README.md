@@ -30,11 +30,18 @@ app.py [path of image]
 ## Results
 Here are some examples of the system's output. The images show the user-selected bounding box, the masked version, and the final inpainted result.
 
-<p align ="center">
-  <img src="/results/example1.png" width="1000" />
-  <em></em>
-</p>
-<p align ="center">
-  <img src="/results/example2.png" width="1000" />
-  <em></em>
-</p>
+[//]: # (<p align ="center">)
+
+[//]: # (  <img src="/results/example1.png" width="1000" />)
+
+[//]: # (  <em></em>)
+
+[//]: # (</p>)
+
+[//]: # (<p align ="center">)
+
+[//]: # (  <img src="/results/example2.png" width="1000" />)
+
+[//]: # (  <em></em>)
+
+[//]: # (</p>)
